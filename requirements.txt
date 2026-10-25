@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.34.0
+python-dotenv==1.2.2
+pydantic==2.13.4
+pydantic-settings==2.14.2
+pydantic_core==2.46.4
+requests==2.34.2
+peewee==4.1.1
